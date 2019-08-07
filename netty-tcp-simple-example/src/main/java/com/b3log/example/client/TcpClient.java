@@ -1,4 +1,4 @@
-package com.lcg.example.client;
+package com.b3log.example.client;
 
 public class TcpClient {
 

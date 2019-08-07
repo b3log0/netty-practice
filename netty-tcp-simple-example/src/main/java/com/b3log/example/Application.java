@@ -1,4 +1,4 @@
-package com.lcg.example;
+package com.b3log.example;
 
 public class Application {
 
